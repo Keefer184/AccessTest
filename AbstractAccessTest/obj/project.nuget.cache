@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "nixQqcNwK3rHMOfVG5IhkwhDjV9ZsODoUxCnTtkxZYt/aV9tCnbfOF81DJ40nBCOOxSU+tBkcTjNdn13nplSDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keefe\\source\\repos\\AbstractAccessTest\\AbstractAccessTest\\AbstractAccessTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keefe\\.nuget\\packages\\apache.arrow\\15.0.2\\apache.arrow.15.0.2.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\ironcompress\\1.5.1\\ironcompress.1.5.1.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\microsoft.data.analysis\\0.21.1\\microsoft.data.analysis.0.21.1.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\microsoft.ml.dataview\\3.0.1\\microsoft.ml.dataview.3.0.1.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\parquet.net\\4.23.4\\parquet.net.4.23.4.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\snappier\\1.1.1\\snappier.1.1.1.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\tdmsreader\\3.1.0\\tdmsreader.3.1.0.nupkg.sha512",
+    "C:\\Users\\keefe\\.nuget\\packages\\zstdsharp.port\\0.7.2\\zstdsharp.port.0.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
