@@ -144,7 +144,7 @@ namespace AbstractAccessTest
         {
             DateTime time = DateTime.Now;
             string timestamp = time.Year.ToString()+time.Month.ToString()+time.Day.ToString()+time.Hour.ToString()+time.Minute.ToString();
-            string outputPath = $"C:\\Users\\keefe\\source\\{timestamp}{PrintCount}.csv";
+            string outputPath = $"[YOUR FILE PATHS]{timestamp}{PrintCount}.csv";
             int parallelTasks = Environment.ProcessorCount;
             PrintCount++;
             using(StreamWriter writer = new StreamWriter(outputPath))
